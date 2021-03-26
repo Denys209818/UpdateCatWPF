@@ -1,0 +1,32 @@
+﻿<Window x:Class="CatRenta.UpdateCatWPF.ChangeDataWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CatRenta.UpdateCatWPF"
+        mc:Ignorable="d"
+        Title="Змінити елемент" Height="350" Width="450" Loaded="Window_Loaded" Closed="Window_Closed">
+    <Grid>
+        <StackPanel Width="300">
+            <Label Content="Змінити елемент" FontSize="24" HorizontalAlignment="Center" 
+                   Foreground="Red" Margin="0,10"/>
+            <Label Content="Назва" FontSize="14" Margin="50,0"/>
+            <Border Name="brdName" BorderBrush="Silver" BorderThickness="1" Width="200">
+                <TextBox x:Name="txtName" FontSize="16"/>
+            </Border>
+
+            <Label Content="Силка на зображення" FontSize="14" Margin="50,0"/>
+            <Border Name="brdImgUrl" BorderBrush="Silver" BorderThickness="1" Width="200">
+                <TextBox x:Name="txtImgUrl" FontSize="16"/>
+            </Border>
+
+            <Label Content="Дата" FontSize="14" Margin="50,0"/>
+            <Border Name="brdData" BorderBrush="Silver" BorderThickness="1" Width="200">
+                <DatePicker Name="DatePick"/>
+            </Border>
+
+            <Button Name="btnConfirm" Content="Змінити" FontSize="18" 
+                    Height="50" Click="btnConfirm_Click" Width="200" Margin="0,30,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

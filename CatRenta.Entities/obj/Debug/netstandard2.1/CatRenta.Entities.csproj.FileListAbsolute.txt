@@ -1,0 +1,9 @@
+C:\Users\Denis\Desktop\WPF HomeWork\UpdateCatWPFCRUD\CatRenta.Entities\bin\Debug\netstandard2.1\CatRenta.Entities.deps.json
+C:\Users\Denis\Desktop\WPF HomeWork\UpdateCatWPFCRUD\CatRenta.Entities\bin\Debug\netstandard2.1\CatRenta.Entities.dll
+C:\Users\Denis\Desktop\WPF HomeWork\UpdateCatWPFCRUD\CatRenta.Entities\bin\Debug\netstandard2.1\CatRenta.Entities.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\UpdateCatWPFCRUD\CatRenta.Entities\obj\Debug\netstandard2.1\CatRenta.Entities.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\UpdateCatWPFCRUD\CatRenta.Entities\obj\Debug\netstandard2.1\CatRenta.Entities.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\UpdateCatWPFCRUD\CatRenta.Entities\obj\Debug\netstandard2.1\CatRenta.Entities.AssemblyInfo.cs
+C:\Users\Denis\Desktop\WPF HomeWork\UpdateCatWPFCRUD\CatRenta.Entities\obj\Debug\netstandard2.1\CatRenta.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\UpdateCatWPFCRUD\CatRenta.Entities\obj\Debug\netstandard2.1\CatRenta.Entities.dll
+C:\Users\Denis\Desktop\WPF HomeWork\UpdateCatWPFCRUD\CatRenta.Entities\obj\Debug\netstandard2.1\CatRenta.Entities.pdb
