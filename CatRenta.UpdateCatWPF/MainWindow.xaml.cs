@@ -49,6 +49,8 @@ namespace CatRenta.UpdateCatWPF
         {
             FillData();
             this.dgCats.ItemsSource = _cats;
+            this.dgCats.CanUserAddRows = false;
+           
         }
 
         private void dgCats_MouseDoubleClick(object sender, MouseButtonEventArgs e)
